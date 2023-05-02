@@ -1,7 +1,6 @@
 import React from "react";
 
 import ExpenseForm from "./ExpenseForm";
-import AddNewExpense from "../NewExpense/AddNewExpense";
 
 import "./NewExpense.css";
 
